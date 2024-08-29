@@ -2,7 +2,7 @@
 🏫Data Science/ Data Analytics enthusiast sharing about my journey and learning in Data<br>📖Studied Data Science at the Ball State University, Muncie, US<br>Check out my Portfolio for all of my projects, skills and Professional Training Certificates.<br>🏢I am currently opened to work as Data Scientist and located in Indianapolis Area, IN.<br> 🚶‍♂️‍➡️In my free time, I like to read, hike, travel, and explore different music genres over a cup of tea (In no particular order).
 
 
-## 🌐 Socials:
+## 👋🏻 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charles-wiredu-064655246/) 
 [![Gmail Badge](https://img.shields.io/badge/-charlwiredu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:charlwiredu@gmail.com)](mailto:charlwiredu@gmail.com)
 
